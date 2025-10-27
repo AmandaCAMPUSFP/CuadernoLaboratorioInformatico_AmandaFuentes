@@ -1,6 +1,7 @@
 ## Actividad Práctica - Tema 4: Acceso Aleatorio a Ficheros
 
 ## Objetivo
+
 Utilizar la clase RandomAccessFile para escribir y leer registros de texto desde posiciones específicas de un archivo. Aprender a manipular el puntero del archivo mediante seek() y a controlar la lectura secuencial o puntual de datos.
 
 ## Instrucciones
